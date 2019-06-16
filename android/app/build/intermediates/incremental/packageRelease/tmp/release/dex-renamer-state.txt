@@ -1,0 +1,4 @@
+#Thu Jan 17 09:11:12 IST 2019
+base.0=/Users/developer/Documents/appasaheb4/project/task/react-native/deployApp/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
